@@ -92,7 +92,7 @@
   "prevent_submit_keyboard": false,
   "custom_error_page": false,
   "bookmarks_title": "SURVEYS",
-  "show_home_icon": false,
+  "show_home_icon": true,
   "force_camera_uploads": false,
   "prevent_screen_power_off": false,
   "custom_screensaver": false,
@@ -124,7 +124,7 @@
   "rotation": "Landscape",
   "above_screen_lock": true,
   "cache_mode": "LOAD_DEFAULT",
-  "show_refresh_icon": true,
+  "show_refresh_icon": false,
   "device_sleep_time_thursday": "21:00",
   "custom_toolbar_url": "",
   "settings_password": "6632"
