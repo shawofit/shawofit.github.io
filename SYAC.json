@@ -1,5 +1,4 @@
 {
-  "licence_key": "A7N24P",
   "hide_action_bar": false,
   "show_print_menu": false,
   "multitap_settings": false,
@@ -9,7 +8,7 @@
   "prevent_uploads": true,
   "whitelist_redirect": false,
   "whitelist_urls": "https://survey.qed.qld.gov.au, http://survey.qed.qld.gov.au",
-  "hide_system_dialogs": true,
+  "hide_system_dialogs": false,
   "device_wake_time_wednesday": "08:00",
   "custom_screensaver_type": "Image",
   "hide_google_play_services_messages": true,
